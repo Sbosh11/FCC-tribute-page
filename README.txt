@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/Sbosh11/pen/JePBqo.
+You can find this live page at https://tribute-page-sibs.netlify.com/.
 
  Freeodecamp tribute page
